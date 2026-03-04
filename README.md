@@ -1,1 +1,1 @@
-kör: uv run streamlit run triage_ui.py
+kör: "uv run streamlit run triage_ui.py"
